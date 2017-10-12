@@ -156,7 +156,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 72
+  controlID: 36
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 37
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -426,9 +426,9 @@ MonoBehaviour:
     height: 515
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 52260000
     m_LastClickedID: 0
-    m_ExpandedIDs: 6afbffff00000000
+    m_ExpandedIDs: 1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -447,7 +447,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ExpandedScenes:
-  - 
+  - test
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -645,9 +645,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2c260000
-    m_LastClickedID: 9772
-    m_ExpandedIDs: 2c260000ffffff7f
+    m_SelectedIDs: 0e260000
+    m_LastClickedID: 9742
+    m_ExpandedIDs: 000000000e260000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -675,7 +675,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000000e260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -702,7 +702,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: e8ebffff26260000f2240000a0260000a4250000a82f00008c290000d22f00001e2700000a270000b8260000a2aa0000ecb200008cab000024b40000c2be0000a8c10000e42f00009051000014600000822f0000d2ccfbff3c52fbff1876f7ff68bbffff1866000048c6f7ff702600008426000046260000d226000066260000542600004e260000b02600006e260000b22600003228faff2a260000762700007a260000101f010002080100161f01001029e8ff7c26000064260000ac270000ae280000bc2700007a270000b82800007a650000f6380000e038000004280000d8290000e02a0000ea280000da2a00008e260000722600007c280000da2900008e2800003a280000ec28000000000000922600007426000088280000ea2900009c2800003e280000fa290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
